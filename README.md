@@ -1,8 +1,8 @@
-# English to Spanish Translation with Neural Machine Translation
+# Spanish to English Translation with Neural Machine Translation
 
 ## Overview
 
-This project implements a Neural Machine Translation (NMT) model to translate English sentences into Spanish using the Keras library. The model is based on LSTM (Long Short-Term Memory) networks and attention mechanisms for better translation performance.
+This project implements a Neural Machine Translation (NMT) model to translate Spanish sentences into English using the Keras library. The model is based on LSTM (Long Short-Term Memory) networks and attention mechanisms for better translation performance.
 
 ## Requirements
 
@@ -27,7 +27,7 @@ Make sure you have the following libraries and tools installed:
 
 4. **Inference**: You can use the trained model to translate English sentences into Spanish.
 
-5. **Interactive Translation Interface**: An interactive translation interface is provided using Gradio. You can run the interface and input English sentences to get their Spanish translations.
+5. **Interactive Translation Interface**: An interactive translation interface is provided using Gradio. You can run the interface and input Spanish sentences to get their English translations.
 
 ## Model Architecture
 
